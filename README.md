@@ -6,7 +6,9 @@
 <h2>Description</h2>
 <p>This project is an assembler implemented in the C programming language.
 The assembler takes assembly language source code as input and generates corresponding machine code as output.</p>
-<img src="Image2.png" width="1500px" height="300px" alt="flowchart">
+
+<h2>Our Logic:</h2>
+<img src="Image2.png" alt="flowchart">
 
 <h2>Features</h2>
 <ul>
