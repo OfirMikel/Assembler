@@ -1,5 +1,5 @@
 <h1>Assembler</h1>
-<p>An assembler Me and my colleague Isreal written in C that translates assembly language code into machine code.</p>
+<p>An assembler me and my colleague Isreal written in C that translates assembly language code into machine code.</p>
 
 <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"  width="1500px" height="450px" alt="flowchart">
 
