@@ -29,6 +29,8 @@ The assembler takes assembly language source code as input and generates corresp
     <li>Tested on Ubuntu, Linux and Windows environments.</li>
 </ul>
 
+<img src="image.png" alt="flowchart">
+
 
 <h2>Usage</h2>
 <ol>
