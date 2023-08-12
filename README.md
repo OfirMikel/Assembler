@@ -1,9 +1,6 @@
 <h1>Assembler</h1>
 <p>An assembler Me and my colleague Isreal written in C that translates assembly language code into machine code.</p>
 
-<img src="image.png" alt="output">
-<img src="image2.png" alt="flowchart">
-
 <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="flowchart">
 
 <h2>Description</h2>
@@ -28,6 +25,9 @@ The assembler takes assembly language source code as input and generates corresp
     <li>Valgrind was utilized to analyze memory usage and check for memory leaks. No memory leaks were detected.</li>
     <li>Tested on Ubuntu, Linux and Windows environments.</li>
 </ul>
+<img src="image.png" alt="output">
+
+<img src="Image2.png" alt="flowchart">
 
 <h2>Usage</h2>
 <ol>
