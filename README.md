@@ -8,7 +8,7 @@
 The assembler takes assembly language source code as input and generates corresponding machine code as output.</p>
 
 <h2>Our Logic:</h2>
-<img src="Image2.png" alt="flowchart">
+<img src="Image2.png" width="1500px" alt="flowchart">
 
 <h2>Features</h2>
 <ul>
