@@ -2,7 +2,9 @@
 <p>An assembler Me and my colleague Isreal written in C that translates assembly language code into machine code.</p>
 
 <img src="image.png" alt="output">
-<img src="image2.png" alt="output">
+<img src="image2.png" alt="flowchart">
+
+<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="flowchart">
 
 <h2>Description</h2>
 <p>This project is an assembler implemented in the C programming language.
