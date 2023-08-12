@@ -1,0 +1,22 @@
+
+int openFiles(char **argv, int argc, sourceFiles *files);
+int preAssembler(sourceFiles *sourceFile);
+char* getRow(FILE* , int *);
+int isMacroNameValid(char *row, Mcro *mcro, McroNode *head);
+int isRowBeginningWithComma(Row row);
+void deleteUnNeededSpaces (char*);
+int isMcroEnded(char *);
+int isMcroCalled(Row row, McroNode *head);
+Mcro searchMcro(Row row, McroNode *head);
+int spanRowToFileAm(FILE *File, Row row);
+int spanMcroToFile(FILE *File, Mcro currentMcro);
+int reallocRows(Row **rows, int amount);
+int addLineToRowArray(Row **rows, Row rowToAdd, int amount);
+int isMcroCalledInLine(char *row);
+int analyzeMcro(RowArray rowArray, McroNode **head);
+McroNode* createMcroNode(Mcro mcro);
+int insertMcroNode(McroNode **head, Mcro mcro);
+int freeLinkedList(McroNode *node);
+void freeRowArray(RowArray *array);
+char* getLabelName(char *text);
+void runPreAssembler(sourceFiles **afterMcro, sourceFiles **files, int *fileIndex , int length);
